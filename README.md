@@ -6,7 +6,6 @@ Made by **off chartz**.
 ## Features
 * **Drag-and-Drop Layout Canvas:** Move, resize, add, and delete buttons or joysticks directly on your phone screen. Your layout saves automatically.
 * **True Hardware Emulation:** The PC reads the app as a genuine physical Xbox 360 controller using XInput.
-* **Integrated Mouse Control:** Control your Windows desktop cursor with the right joystick and trigger mouse clicks.
 * **Low-Latency Wi-Fi Connection:** Communicates instantly via local network UDP sockets (Port 8080).
 * **Modern PC Dashboard:** Automatically detects your local IP address for easy pairing and features a live mouse sensitivity slider.
 
