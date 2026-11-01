@@ -1,17 +1,13 @@
-# PyInstaller generated folders and files
+
 dist/
 build/
 *.spec
 
-# Inno Setup generated folder
 Output/
 
-# Final release binaries (Upload manually to GitHub Releases)
 Releases/
 
-# Third-party driver installers
 ViGEmBusSetup.exe
 
-# Python cache
 __pycache__/
 *.pyc
