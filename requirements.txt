@@ -1,0 +1,4 @@
+vgamepad
+pynput
+customtkinter
+pyinstaller
