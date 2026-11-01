@@ -1,6 +1,6 @@
-# JoyToy 🎮
+# JoyToy
 
-Turn your Android phone into a fully customizable, wireless Xbox 360 controller and PC mouse over Wi-Fi. 
+Turn your Android phone into a fully customizable, wireless Xbox 360 controller over Wi-Fi. 
 Made by **off chartz**.
 
 ## Features
